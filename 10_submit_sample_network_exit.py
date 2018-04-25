@@ -13,4 +13,3 @@ parameters = {'api_key': api_key, 'network_exit':'ny-ven'}
 r = requests.post(url, files=sample, params=parameters)
 
 print r.json()
-
