@@ -1,6 +1,6 @@
 import requests
 
-api_key = 'm9mc56i9l0qanaclufb3kc5jtn'
+api_key = 'a1b2c3d4e5f6g7h8i9j0k1l2m3'
 
 url = 'https://panacea.threatgrid.com/api/v3/session/whoami?api_key={}'.format(api_key)
 
