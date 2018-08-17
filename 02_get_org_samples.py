@@ -6,4 +6,4 @@ url = 'https://panacea.threatgrid.com/api/v2/search/submissions?org_only=True&ap
 
 r = requests.get(url)
 
-print r.json()
+print(r.json())

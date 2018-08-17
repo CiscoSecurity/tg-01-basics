@@ -6,4 +6,4 @@ url = 'https://panacea.threatgrid.com/api/v3/session/whoami?api_key={}'.format(a
 
 r = requests.get(url)
 
-print r.json()
+print(r.json())

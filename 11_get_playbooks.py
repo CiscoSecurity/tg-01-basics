@@ -6,4 +6,4 @@ url = 'https://panacea.threatgrid.com/api/v3/configuration/playbooks?api_key={}'
 
 r = requests.get(url)
 
-print r.json()
+print(r.json())
