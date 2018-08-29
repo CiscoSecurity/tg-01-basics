@@ -1,6 +1,6 @@
 import requests
 
-api_key = 'a1b2c3d4e5f6g7h8i9j0k1l2m3'
+api_key = 'asdf1234asdf1234asdf1234'
 
 q = 'cisco.com'
 
